@@ -6,6 +6,6 @@ Welcome to the Jungle!
 -----------------------
 
 
-#. :ref: How-To's
-#. :ref: Tools
-#. :ref: Scripts
+ How-To_
+ Tools_
+ Scripts_
