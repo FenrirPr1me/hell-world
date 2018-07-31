@@ -1,9 +1,11 @@
 ==========================
-Ij's Sandbox Documentation
+IJ's Sandbox Documentation
 ==========================
 
 Welcome to the Jungle!
 -----------------------
+
+
 #. Subject
 #. Subject
 #. Subject
